@@ -30,6 +30,7 @@ nav ul {
   transition: all 4s;
   list-style-type: none;
   display: none;
+  border-bottom-left-radius: 1em;
 }
 nav ul li {
   margin-bottom: 1em;
